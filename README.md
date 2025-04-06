@@ -13,8 +13,12 @@ Junior unity developer @ Xminds Info Tech
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](/) <br/>
 [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]()
 
-### Game engine used
+### Tool and Technology
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/WebGL_Logo.svg" alt="WebGL" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Logo.svg" alt="Three.js" width="60"/>
+
 
 ### I code in
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -25,9 +29,10 @@ Junior unity developer @ Xminds Info Tech
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+
 
 ### IDE and Tools I Use
+
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
