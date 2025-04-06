@@ -16,8 +16,7 @@ Junior unity developer @ Xminds Info Tech
 ### Tool and Technology
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/WebGL_Logo.svg" alt="WebGL" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Logo.svg" alt="Three.js" width="60"/>
+
 
 
 ### I code in
